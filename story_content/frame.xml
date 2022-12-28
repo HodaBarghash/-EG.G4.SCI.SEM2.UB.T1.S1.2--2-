@@ -93,6 +93,8 @@
       <optiongroup name="courseOptions">
         <options>
           <option name="thumbnailEnabled" value="true" />
+          <option name="thumbnailDisplayName" value="Front Page.png" />
+          <option name="thumbnailUrl" value="story_content/5zQhqcZK9H4.png" />
         </options>
       </optiongroup>
     </optiongroups>
